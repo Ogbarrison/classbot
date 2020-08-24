@@ -25,3 +25,8 @@
 #         dispatcher.utter_message(text="Hello World!")
 #
 #         return []
+
+def runThisWorld():
+    print('Who runs this world?')
+
+print("Awesome")

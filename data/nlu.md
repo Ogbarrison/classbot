@@ -5,6 +5,9 @@
 - good morning
 - good evening
 - hey there
+- good afternoon
+- what's up?
+- holla
 
 ## intent:goodbye
 - bye
@@ -48,6 +51,24 @@
 - not very good
 - extremely sad
 - so sad
+
+## intent:inquiry
+- I want to make an enquiry about the covenlabs chatbot classes
+- I want to know about chatbot class
+- I want to build a chatbot
+- I want to know more about covenlabs
+
+## intent:read_more_yes
+-  Yes
+- Yes, I'd love to
+- Yes, I'd love to read more
+- Definitely
+
+## intent:read_more_no
+- No
+- No, I have enough information
+- Nope
+- Never mind
 
 ## intent:bot_challenge
 - are you a bot?

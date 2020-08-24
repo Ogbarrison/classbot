@@ -26,7 +26,3 @@
 #
 #         return []
 
-def runThisWorld():
-    print('Who runs this world?')
-
-print("Awesome")

@@ -8,12 +8,14 @@
 - good afternoon
 - what's up?
 - holla
+- Twale baba
 
 ## intent:goodbye
 - bye
 - goodbye
 - see you around
 - see you later
+- tommorrow na
 
 ## intent:affirm
 - yes
